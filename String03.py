@@ -6,5 +6,8 @@ def main(s):
     Returns:
         str: answer
     """
+    s = 'COESCHOOL'
+    x = s.lower()
+    return x
 
-    return
+print(main('CODE'))
