@@ -9,6 +9,5 @@ def main(s):
     s ='google is a search engine'
 
     x = s.title()
-    return x
-
+    return x == s.title()
 print(main('code')) 
