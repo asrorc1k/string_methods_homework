@@ -6,5 +6,8 @@ def main(s):
     Returns:
         str: answer
     """
-    
-    return
+    s = 'codeschool'
+    x =  s.capitalize()
+    return x
+
+print(main('code')) 
