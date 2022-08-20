@@ -6,8 +6,9 @@ def main(s):
     Returns:
         str: answer
     """
-    s = 'codeschool'
-    x =  s.capitalize()
+    s ='google is a search engine'
+
+    x = s.title()
     return x
 
 print(main('code')) 
