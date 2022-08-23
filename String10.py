@@ -6,5 +6,6 @@ def main(s):
     Returns:
         str: answer
     """
-    
-    return
+    idx = s.find('x,')
+    return idx
+print(main('Bexruz'))
