@@ -6,9 +6,9 @@ def main(s):
     Returns:
         bool: answer
     """
-    x = s.isdigit()
+    x = s.isalpha()
     return x
 
 
     
-print(main("12345"))
+print(main("salom"))
