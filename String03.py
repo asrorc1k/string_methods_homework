@@ -6,8 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
-    s = 'COESCHOOL'
-    x = s.lower()
-    return x
+    
+    return s.lower()
 
-print(main('CODE'))
+print(main('IPHONE IS A MOBIL'))
