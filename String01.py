@@ -6,8 +6,8 @@ def main(s):
     Returns:
         str: answer
     """
-    s ='google is a search engine'
 
-    x = s.title()
-    return x == s.title()
-print(main('code')) 
+    
+    return s.title()
+print(main( "google is a search engine"
+)) 
