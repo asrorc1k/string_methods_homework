@@ -6,5 +6,6 @@ def main(s):
     Returns:
         int: answer
     """
-    
-    return
+    idx = s.count('a')
+    return idx
+print(main('dart'))
